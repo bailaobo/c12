@@ -32,5 +32,4 @@ int main(void)
 
 	printf("b = %s, c = %s, d = %s\n", b, c, d);
 	return 0;
-
 }
